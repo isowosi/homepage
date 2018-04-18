@@ -1,0 +1,51 @@
+[
+  {
+    "id": "pride_and_accomplishment",
+    "name": "Pride and Accomplishment",
+    "description": "The intent is to provide players with a sense of pride and accomplishment for unlocking different heroes,",
+    "links": [
+      {
+        "name": "Kongregate",
+        "href": "https://www.kongregate.com/games/isowosi/pride-and-accomplishment",
+        "date": "20171125"
+      },
+      {
+        "name": "Game Jolt",
+        "href": "https://gamejolt.com/games/pride-and-accomplishment/299482",
+        "date": "20171125"
+      },
+      {
+        "name": "itch.io",
+        "href": "https://isowosi.itch.io/pride-and-accomplishment",
+        "date": "20171125"
+      }
+    ]
+  },
+  {
+    "id": "shapeocalypse",
+    "name": "Shapeocalypse in the Disco Tunnel",
+    "description": "shapeshift your way through a tunnel full of colors",
+    "links": [
+      {
+        "name": "Kongregate",
+        "href": "https://www.kongregate.com/games/isowosi/shapeocalypse",
+        "date": "20170401"
+      },
+      {
+        "name": "GitHub",
+        "href": "https://isowosi.github.io/shapeocalypse",
+        "date": "20170401"
+      },
+      {
+        "name": "Game Jolt",
+        "href": "https://gamejolt.com/games/shapeocalypse/293628",
+        "date": "20170401"
+      },
+      {
+        "name": "itch.io",
+        "href": "https://isowosi.itch.io/shapeocalypse",
+        "date": "20170401"
+      }
+    ]
+  }
+]

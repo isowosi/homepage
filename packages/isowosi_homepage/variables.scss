@@ -1,0 +1,14 @@
+
+$baseHue: 92;
+$baseSaturation: 24;
+$baseLightness: 90;
+$bodyBgColor: hsl($baseHue, $baseSaturation, $baseLightness);
+$contentBgColor: hsl($baseHue, $baseSaturation + 12, $baseLightness - 2);
+$navBgColor: hsl($baseHue, $baseSaturation + 33, $baseLightness - 14);
+$gameBgColor: hsl($baseHue, $baseSaturation + 33, $baseLightness - 14);
+$gameBorderColor: hsl($baseHue, $baseSaturation + 33, $baseLightness - 42);
+$linkBgColor: hsl($baseHue, $baseSaturation + 33, $baseLightness - 42);
+$linkHoverBgColor: hsl($baseHue, $baseSaturation + 33, $baseLightness - 28);
+$linkBorderColor: hsl($baseHue, $baseSaturation + 20, $baseLightness - 20);
+$linkTextShadow: hsl($baseHue, $baseSaturation + 53, $baseLightness + 10);
+$linkTextColor: hsl($baseHue, $baseSaturation + 53, $baseLightness - 50);

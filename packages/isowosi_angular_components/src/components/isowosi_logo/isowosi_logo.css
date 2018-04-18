@@ -1,0 +1,35 @@
+:host {
+  display: block;
+}
+
+path {
+  stroke: #000000;
+}
+
+.isowosi1 {
+  fill: #fffc01;
+}
+
+.isowosi2 {
+  fill: #66d800;
+}
+
+.isowosi3 {
+  fill: #2900ae;
+}
+
+.isowosi4 {
+  fill: #80007e;
+}
+
+.isowosi5 {
+  fill: #ae0000;
+}
+
+.isowosi6 {
+  fill: #d87600;
+}
+
+.isowosi7 {
+  fill: #fffc01;
+}

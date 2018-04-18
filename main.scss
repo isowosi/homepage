@@ -1,0 +1,33 @@
+/* Copyright (c) 2017, dennis. All rights reserved. Use of this source code
+   is governed by a BSD-style license that can be found in the LICENSE file. */
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Material+Icons);
+
+$baseHue: 92;
+$baseSaturation: 24;
+$baseLightness: 90;
+$bodyBgColor: hsl($baseHue, $baseSaturation, $baseLightness);
+
+body {
+  margin: 0 auto;
+  background-color: $bodyBgColor;
+}
+
+* {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  color: #161616;
+}
+
+h1, h2 {
+  color: #161616;
+  margin: 15px 0 5px 0;
+  padding: 0;
+}
+
+a {
+  color: #445873;
+}
+
+a:visited {
+  color: #497178;
+}
