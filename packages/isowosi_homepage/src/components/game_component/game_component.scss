@@ -61,18 +61,18 @@
   line-height: 20px;
   vertical-align: middle;
   text-align: center;
-  background-color: $linkBgColor;
-  color: white;
-  text-shadow: 2px 2px 2px black;
+  background-color: $linkButtonBgColor;
+  color: $linkButtonTextColor;
+  text-shadow: 2px 2px 2px $linkButtonTextShadow;
   border-radius: 0 16px 0 10px;
   text-decoration: none;
   font-size: 14px;
-  box-shadow: 1px 1px 0 $linkBorderColor;
+  box-shadow: 1px 1px 0 $linkButtonBorderColor;
 }
 
 .link:hover {
-  background-color: $linkHoverBgColor;
-  box-shadow: 1px 1px 1px $linkBgColor;
+  background-color: $linkButtonHoverBgColor;
+  box-shadow: 1px 1px 1px $linkButtonBgColor;
 }
 
 .link0 {

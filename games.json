@@ -1,8 +1,14 @@
 [
   {
+    "id": "idle_space_conquest",
+    "name": "Idle Space Conquest (coming soon)",
+    "description": "The universe is a big and empty place. Can you conquer it and spread life everywhere?",
+    "links": []
+  },
+  {
     "id": "pride_and_accomplishment",
     "name": "Pride and Accomplishment",
-    "description": "The intent is to provide players with a sense of pride and accomplishment for unlocking different heroes,",
+    "description": "The intent is to provide players with a sense of pride and accomplishment for unlocking different heroes.",
     "links": [
       {
         "name": "Kongregate",
