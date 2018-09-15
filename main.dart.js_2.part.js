@@ -1,39 +1,45 @@
-self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,d,e,f,g,h,i,j,k,l,m,$){var C={},H={},J={},P={},W={},G={},Y={},R={},E={},M={},S={},Q={},D={},V={},L={},A={},T={},K={},N={},U={},O={},Z={
-C:function(n){return new Z.hT(n)},
-hT:function hT(n){this.a=n}},X={},F={},B={}
-var z=[C,H,J,P,W,G,Y,R,E,M,S,Q,D,V,L,A,T,K,N,U,O,Z,X,F,B]
-g([C,H,J,P,W,G,Y,R,E,M,S,Q,D,V,L,A,T,K,N,U,O,Z,X,F,B])
-C=h(m[0],C)
-H=h(m[1],H)
-J=h(m[2],J)
-P=h(m[3],P)
-W=h(m[4],W)
-G=h(m[5],G)
-Y=h(m[6],Y)
-R=h(m[7],R)
-E=h(m[8],E)
-M=h(m[9],M)
-S=h(m[10],S)
-Q=h(m[11],Q)
-D=h(m[12],D)
-V=h(m[13],V)
-L=h(m[14],L)
-A=h(m[15],A)
-T=h(m[16],T)
-K=h(m[17],K)
-N=h(m[18],N)
-U=h(m[19],U)
-O=h(m[20],O)
-Z=h(m[21],Z)
-X=h(m[22],X)
-F=h(m[23],F)
-B=h(m[24],B)
-Z.hT.prototype={
-$0:function(){return this.a},
-"call*":"$0",
-$R:0,
-$S:function(){return{func:1}}};(function inheritance(){a(Z.hT,H.bm)})()
-i([]);(function nativeSupport(){j({})
-k({})})()}
-$__dart_deferred_initializers__["cRXW69uITyj8LblvTA5+GnZJoSA="] = $__dart_deferred_initializers__.current
+self.$dart_deferred_initializers$=self.$dart_deferred_initializers$||Object.create(null)
+$dart_deferred_initializers$.current=function($globals$,$){var A=$globals$.A
+var B=$globals$.B
+var C=$globals$.C
+var D=$globals$.D
+var E=$globals$.E
+var F=$globals$.F
+var G=$globals$.G
+var H=$globals$.H
+var J=$globals$.J
+var K=$globals$.K
+var L=$globals$.L
+var M=$globals$.M
+var N=$globals$.N
+var O=$globals$.O
+var P=$globals$.P
+var Q=$globals$.Q
+var R=$globals$.R
+var S=$globals$.S
+var T=$globals$.T
+var U=$globals$.U
+var V=$globals$.V
+var W=$globals$.W
+var X=$globals$.X
+var Y=$globals$.Y
+var Z=$globals$.Z
+var init=$globals$.init
+var setupProgram=$globals$.setupProgram
+var I=$globals$.I
+var dart=[["","",,B,{"^":"",kl:{"^":"bI;ee:a<",
+geb:function(){return"de"},
+l:{
+ko:[function(a){return P.aw(["externalProviders",Z.A("Externe Anbieter"),"general",Z.A("Allgemeines"),"googleFonts",Z.A("Google Fonts"),"googleFontsIntro",Z.A("Diese Website verwendet die von Google Fonts angebotene Schriftart Roboto. Google Fonts minimiert die Verarbeitung und Speicherung von Benutzerdaten auf das notwendigste um genutzte Schriftarten effizient zu verwenden. Es ist keine Authentifizierung notwendig und es werden keine Cookies gespeichert. Google Fonts h\xe4lt sich an die US Privacy Shield Regelungen und ist mit der DSGVO konform."),"hosting",Z.A("Hosting"),"hostingIntro",Z.A("Zum Hosting dieser Seite wird die Infrastruktur von Digital Ocean verwendet. Digital Ocean h\xe4lt sich an die US Privacy Shield Regelungen und ist mit der DSGVO konform."),"imprint",Z.A("Impressum"),"privacyPolicy",Z.A("Datenschutzerkl\xe4rung"),"processing",Z.A("Datenverarbeitung"),"processingBrowserHeader",Z.A("Daten die der Browser standardm\xe4\xdfig sendet (HTTP Request Header) um Daten in passender Sprache auszuliefern"),"processingIntro",Z.A("Bei Verwendung dieser Website werden nur die technisch notwendigen Daten zur Auslieferung der angeforderten Ressourcen verarbeitet:"),"processingIpAdress",Z.A("IP-Adresse um Ressourcen an den Benutzer auszuliefern"),"storage",Z.A("Datenspeicher"),"storageIntro",Z.A("Bei der Verwendung dieser Website werden keine Daten gespeichert (keine Logs, kein Profiling, kein Tracking).")],P.d,P.aE)},"$1","qu",4,0,0]}}}]]
+setupProgram(dart,init.metadata.length,init.types.length)
+var deferredMetadata=[]
+var deferredTypes=[{func:1,args:[,]}]
+init.metadata.push.apply(init.metadata,deferredMetadata)
+init.types.push.apply(init.types,deferredTypes);(function(a){for(var z=0;z<a.length;){var y=a[z++]
+var x=a[z++]
+var w=a[z++]
+var v=a[z++]
+I.$lazy(y,x,w,null,v)}})(["hO","$get$hO",function(){return new B.kl(B.ko(B.qu()))},$])}
+$dart_deferred_initializers$["cQzgwKWSYXKcPC3NmBRUPHqX+80="]=$dart_deferred_initializers$.current
+
+//# sourceMappingURL=main.dart.js_2.part.js.map
