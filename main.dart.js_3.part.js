@@ -1,41 +1,15 @@
-self.$dart_deferred_initializers$=self.$dart_deferred_initializers$||Object.create(null)
-$dart_deferred_initializers$.current=function($globals$,$){var A=$globals$.A
-var B=$globals$.B
-var C=$globals$.C
-var D=$globals$.D
-var E=$globals$.E
-var F=$globals$.F
-var G=$globals$.G
-var H=$globals$.H
-var J=$globals$.J
-var K=$globals$.K
-var L=$globals$.L
-var M=$globals$.M
-var N=$globals$.N
-var O=$globals$.O
-var P=$globals$.P
-var Q=$globals$.Q
-var R=$globals$.R
-var S=$globals$.S
-var T=$globals$.T
-var U=$globals$.U
-var V=$globals$.V
-var W=$globals$.W
-var X=$globals$.X
-var Y=$globals$.Y
-var Z=$globals$.Z
-var init=$globals$.init
-var setupProgram=$globals$.setupProgram
-var I=$globals$.I
-var dart=[["","",,Z,{"^":"",
-A:function(a){return new Z.kn(a)},
-kn:{"^":"c:56;a",
-$0:[function(){return this.a},null,null,0,0,null,"call"]}}]]
-setupProgram(dart,init.metadata.length,init.types.length)
-var deferredMetadata=[]
-var deferredTypes=[]
-init.metadata.push.apply(init.metadata,deferredMetadata)
-init.types.push.apply(init.types,deferredTypes)}
-$dart_deferred_initializers$["2U5az2WrFZzaPfDuf9jy+/Yt0zg="]=$dart_deferred_initializers$.current
+self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
+$__dart_deferred_initializers__.current=function(a,b,c,$){var B={eG:function eG(d){this.a=d}},A,C
+B=a.updateHolder(c[3],B)
+A=c[5]
+C=c[0]
+B.eG.prototype={
+gdI(){return"de"},
+gdL(){return this.a}}
+var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
+y(B.eG,A.aZ)})()
+C.kH(b.typeUniverse,JSON.parse('{"eG":{"aZ":[]}}'));(function lazyInitializers(){var y=a.lazyFinal
+y($,"uG","oG",()=>new B.eG(C.bj(["externalProviders",A.N("Externe Anbieter"),"general",A.N("Allgemeines"),"hosting",A.N("Hosting"),"hostingIntro",A.N("Zum Hosting dieser Seite wird die Infrastruktur von Digital Ocean verwendet. Digitial Ocean verwendet die Standardvertragsklauseln der EU-Kommision um sich zu verpflichten europ\xe4ische Datenschutzstandards auch bei \xdcbermittlung von Daten in Drittl\xe4nder einzuhalten."),"imprint",A.N("Impressum"),"privacyPolicy",A.N("Datenschutzerkl\xe4rung"),"processing",A.N("Datenverarbeitung"),"processingBrowserHeader",A.N("Daten die der Browser standardm\xe4\xdfig sendet (HTTP Request Header) um Daten in passender Sprache auszuliefern"),"processingIntro",A.N("Bei Verwendung dieser Website werden nur die technisch notwendigen Daten zur Auslieferung der angeforderten Ressourcen verarbeitet:"),"processingIpAdress",A.N("IP-Adresse um Ressourcen an den Benutzer auszuliefern"),"storage",A.N("Datenspeicher"),"storageIntro",A.N("Bei der Verwendung dieser Website werden keine Daten gespeichert (keine Logs, kein Profiling, kein Tracking).")],C.L("e"),C.L("aU"))))})()}
+$__dart_deferred_initializers__["yjj91svQlqwvlVmG3oIsbKj4/v4="] = $__dart_deferred_initializers__.current
 
 //# sourceMappingURL=main.dart.js_3.part.js.map
